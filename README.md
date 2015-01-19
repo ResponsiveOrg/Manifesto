@@ -1,4 +1,5 @@
 Responsive Org Manifesto V2
+=============
 
 Everyone and everything is connected.
 
